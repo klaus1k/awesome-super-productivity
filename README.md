@@ -30,7 +30,6 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 
 ## Videos
 
-- [Official YouTube Tutorial](https://github.com/johannesjo/super-productivity#getting-started) - Linked from the GitHub README.
 
 ## Guides & Documentation
 
