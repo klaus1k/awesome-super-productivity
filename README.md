@@ -7,6 +7,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 ## Contents
 
 - [Official Resources](#official-resources)
+- [Plugins](#plugins)
 - [Articles & Reviews](#articles--reviews)
 - [Videos](#videos)
 - [Guides & Documentation](#guides--documentation)
@@ -20,6 +21,14 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 - [Website](https://super-productivity.com/) - Official homepage.
 - [GitHub Repository](https://github.com/johannesjo/super-productivity) - Source code and issue tracker.
 - [Web App](https://app.super-productivity.com/) - Use Super Productivity directly in your browser.
+
+## Plugins
+
+- [sp-reporter](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
+- [Archived Tasks Viewer](https://github.com/baiyina/Archived-Tasks-Viewer) - Read-only viewer to browse archived tasks with grouping, filtering, subtasks preview, and theme toggle.
+- [QuestArc](https://codeberg.org/Nexumia/QuestArc) - Transforms your task completion into an RPG-style adventure. Complete tasks to deal damage to bosses, earn XP, level up, and progress through story-driven productivity quests.
+- [Autoplan](https://github.com/00sapo/sp-autoplan) - Smart non-AI plugin for automatic scheduling of tasks - smarter and free alternative to skedpal, timehero, flowsavvy, reclaim, trevor, motion.
+- [SP-MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
 
 ## Articles & Reviews
 
