@@ -56,6 +56,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 - [All Downloads](https://super-productivity.com/download/) - Official download page for all platforms.
 - [Microsoft Store](https://apps.microsoft.com/detail/9nhfvg8361tw) - Windows app.
 - [Google Play](https://play.google.com/store/apps/details?id=com.superproductivity.superproductivity) - Android app.
+- [F-Droid](https://f-droid.org/packages/com.superproductivity.superproductivity) - Android app.
 - [App Store](https://apps.apple.com/us/app/super-productivity/id1482572463) - macOS and iOS app.
 - [Docker Hub](https://hub.docker.com/r/johannesjo/super-productivity) - Self-hosted Docker image.
 
