@@ -47,7 +47,8 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 ## Community
 
 - [GitHub Discussions](https://github.com/johannesjo/super-productivity/discussions) - Ask questions and share ideas.
-- [Subreddit](https://www.reddit.com/r/superProductivity/) - r/super_productivity on Reddit.
+- [Subreddit](https://www.reddit.com/r/superProductivity/) - r/superProductivity on Reddit.
+- [Discord](https://discord.com/invite/KzX9Q3s66b) - Community Discord server.
 - [YouTube Channel](https://www.youtube.com/@superproductivityapp) - Official tutorials and updates.
 
 ## Download
