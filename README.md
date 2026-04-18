@@ -64,7 +64,8 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Developer Productivity](https://super-productivity.com/use-cases/developer-productivity/) - Jira, GitHub, and GitLab integration overview.
 - [All Integrations](https://super-productivity.com/use-cases/integrations/) - GitHub, GitLab, Jira, Gitea, OpenProject, and CalDAV.
 - [Chrome Extension](https://chromewebstore.google.com/detail/super-productivity/ljkbjodfmekklcoibdnhahlaalhihmlb) - Required for Jira access and idle detection in the web app.
-- [Microsoft ToDo Export Tool](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Export Tasks from Microsoft ToDo directly into Super Productivity JSON format.
+- [Import from Microsoft ToDo](https://github.com/daylamtayari/Microsoft-To-Do-Export) - Import tasks from Microsoft ToDo.
+- [Import from OmniFocus](https://github.com/auino/omnifocus-to-superproductivity) - Import tasks from OmniFocus.
 
 ## Community
 
