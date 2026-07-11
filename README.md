@@ -42,6 +42,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [AI Assistant](https://github.com/ai-eifying/ai-assistant-plugin) - OpenAI-powered AI assistant chat panel. Manage tasks, projects, and tags via natural language with function calling support. Configurable API key, model, and base URL.
 - [Memos Sync](https://github.com/giba0/memos-sync) - Syncs plugin-owned notes between Super Productivity and Memos with attachments, auto-sync, and conflict handling.
 - [YouTrack Importer for SuperProductivity](https://github.com/coissay/superProductivity-YoutrackPlugin) - Bring YouTrack issues into SuperProductivity, either as a one-off CSV import or as a live, repeatable sync directly against the YouTrack REST API.
+- [Home Assistant Bridge](https://github.com/jloops412/ha-super-productivity) - Bidirectional bridge between Super Productivity and Home Assistant. Rules-based automation engine: control lights, scenes, media, and notifications based on your tasks. Auto-focus mode, break reminders, daily summaries, and live HA sensor display.
 
 
 ## Articles & Reviews
