@@ -44,6 +44,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [YouTrack Importer for SuperProductivity](https://github.com/coissay/superProductivity-YoutrackPlugin) - Bring YouTrack issues into SuperProductivity, either as a one-off CSV import or as a live, repeatable sync directly against the YouTrack REST API.
 - [Home Assistant Bridge](https://github.com/jloops412/ha-super-productivity) - Bidirectional bridge between Super Productivity and Home Assistant. Rules-based automation engine: control lights, scenes, media, and notifications based on your tasks. Auto-focus mode, break reminders, daily summaries, and live HA sensor display.
 - [Goals Vision Board](https://github.com/CuriousChipmunk/vision-board-super-productivity) - A customizable two-page visual board for long-term goals, reminders, notes, images, tags, checklists, and metrics.
+- [sync.md Multi](https://codeberg.org/fpindado/sync-md-multi) - Sync multiple SuperProductivity projects with their own markdown files (bidirectional).
 
 
 ## Articles & Reviews
