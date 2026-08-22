@@ -46,6 +46,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Goals Vision Board](https://github.com/CuriousChipmunk/vision-board-super-productivity) - A customizable two-page visual board for long-term goals, reminders, notes, images, tags, checklists, and metrics.
 - [sync.md Multi](https://codeberg.org/fpindado/sync-md-multi) - Sync multiple SuperProductivity projects with their own markdown files (bidirectional).
 - [JSON to Tasks](https://github.com/nekoritsme/superproductivity-fromjson-totasks) - Create tasks and subtasks from pasted JSON, with project/tag resolution and optional creation of missing projects and tags.
+- [Joplin Notes Sync](https://github.com/BigWebstas/SuperProd-Joplin-Sync) - One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.
 
 
 ## Articles & Reviews
