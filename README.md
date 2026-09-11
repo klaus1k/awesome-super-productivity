@@ -32,6 +32,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [QuestArc](https://codeberg.org/Nexumia/QuestArc) - Turn your workflow into an adventure! Gamify your tasks with Atomic Habit quests, epic boss fights, earnable badges, and a customizable hero profile.
 - [AutoPlan](https://codeberg.org/00sapo/sp-autoplan) - Smart non-AI plugin for the automatic scheduling of tasks using priorities assigned automatically based on tags, projects, and time estimation.
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
+- [Auto-Fill Time Spent](https://github.com/MazenMohamed203/auto-fill-time-spent) - Automatically sets Time Spent equal to Time Estimate when completing a task that has no tracked time. Perfect for off-computer activities.
 - [Obsidian Integration](https://codeberg.org/sinenomine/sp-obsidian/) - Provides 2-way sync between SP tasks and Obsidian tasks.
 - [MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
 - [Super Productivity MCP](https://github.com/b0x42/Super-Productivity-MCP) - Feature-rich MCP server with 19 tools covering full task CRUD, time tracking summaries, project/tag management, and notifications.
@@ -47,6 +48,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [sync.md Multi](https://codeberg.org/fpindado/sync-md-multi) - Sync multiple SuperProductivity projects with their own markdown files (bidirectional).
 - [JSON to Tasks](https://github.com/nekoritsme/superproductivity-fromjson-totasks) - Create tasks and subtasks from pasted JSON, with project/tag resolution and optional creation of missing projects and tags.
 - [Joplin Notes Sync](https://github.com/BigWebstas/SuperProd-Joplin-Sync) - One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.
+- [Bulk Add Tasks](https://github.com/InitialCrow/bulk-add-tasks-plugin) - Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.
 
 
 ## Articles & Reviews
