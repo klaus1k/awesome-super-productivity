@@ -27,6 +27,7 @@ Super Productivity is a free, open-source to-do list app with integrated timebox
 
 The plugin list is generated automatically from [this file](https://github.com/super-productivity/super-productivity/blob/master/src/assets/community-plugins.json)
 
+- [Task Colors](https://github.com/Zombiehamser/sp-task-color-plugin) - Choose colors for tasks and subtasks, or apply them automatically by priority. Includes a configurable palette, bulk application and recovery; requires Super Productivity 19.3.1.
 - [Markdown Notes](https://github.com/Zoriot/sp-markdown-notes) - Read-only viewer for Markdown and Obsidian notes from a local folder, grouped by directory and rendered in a side panel.
 - [Date Range Reporter Plugin](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
 - [Archived Tasks Viewer](https://github.com/baiyina/Archived-Tasks-Viewer) - Read-only viewer to browse archived tasks with grouping, filtering, subtasks preview, and theme toggle.
