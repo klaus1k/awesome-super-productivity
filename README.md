@@ -58,6 +58,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
 - [Daily Quest](https://github.com/super-productivity/ridonculous/tree/main/plugins/daily-quest) - Experimental: an adventure map from a buff to your boss task to a recovery break, with the boss's subtasks as steps along the trail.
 - [Stadium Mode](https://github.com/super-productivity/ridonculous/tree/main/plugins/stadium-mode) - Experimental: a roaring crowd and a stadium announcer for every task you start, finish, postpone or delete. An optional neural voice downloads about 110 MB after you confirm.
+- [Deadlines](https://github.com/Jontata/deadlines-plugin) - List, Calendar, and Timeline views for deadlines and fixed dates in Super Productivity.
 
 
 ## Articles & Reviews
