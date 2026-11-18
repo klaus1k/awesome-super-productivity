@@ -36,7 +36,6 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
 - [Auto-Fill Time Spent](https://github.com/MazenMohamed203/auto-fill-time-spent) - Automatically sets Time Spent equal to Time Estimate when completing a task that has no tracked time. Perfect for off-computer activities.
 - [Obsidian Integration](https://codeberg.org/sinenomine/sp-obsidian/) - Provides 2-way sync between SP tasks and Obsidian tasks.
-- [MCP](https://github.com/organicmoron/SP-MCP) - Bridge between the Super Productivity app and MCP (Model Context Protocol) servers for Claude Desktop integration.
 - [Super Productivity MCP](https://github.com/b0x42/Super-Productivity-MCP) - Feature-rich MCP server with 19 tools covering full task CRUD, time tracking summaries, project/tag management, and notifications.
 - [Dashboard](https://github.com/ahanel13/sp-dashboard) - Time tracked, completed, overdue and late tasks, broken down by day, project and tag over any date range, plus a heatmap of your activity and habits. Share or print any view. English, Spanish and Simplified Chinese.
 - [Invoicer](https://github.com/1jamesthompson1/sp-invoicer) - Generate client invoices from tracked time in Super Productivity, with flexible billing periods, itemization levels, and PDF export.
@@ -52,7 +51,6 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Joplin Notes Sync](https://github.com/BigWebstas/SuperProd-Joplin-Sync) - One-way sync of project notes (and optional two-way task notes) to Joplin notebooks. Desktop only.
 - [Bulk Add Tasks](https://github.com/InitialCrow/bulk-add-tasks-plugin) - Bulk-create Super Productivity tasks from pasted text, with project headings, subtasks, existing tags, notes and preview validation.
 - [Caffeine Tracker](https://github.com/BigWebstas/sp-caffiene-tracker) - Track caffeine intake and correlate it with task completions, focus, and habits in Super Productivity.
-- [Auto Tag Manager](https://github.com/owarimono/super-productivity-auto-tag) - Automatically applies tags to tasks based on keywords in the task title.
 - [YouGile Integration (SuperGile)](https://github.com/SileboxUnderfined/SuperGile) - Two-way sync of YouGile tasks assigned to you: done state, title, deadline, time estimate and time spent.
 - [monday.com Issue Provider](https://github.com/Zoriot/sp-monday) - Search, import, and sync monday.com board items as Super Productivity tasks, including status/done detection and item updates as comments.
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
