@@ -31,7 +31,7 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Markdown Notes](https://github.com/Zoriot/sp-markdown-notes) - Read-only viewer for Markdown and Obsidian notes from a local folder, grouped by directory and rendered in a side panel.
 - [Date Range Reporter Plugin](https://github.com/dougcooper/sp-reporter) - Generates reports of completed tasks and tasks with work logs within a specified date range.
 - [Archived Tasks Viewer](https://github.com/baiyina/Archived-Tasks-Viewer) - Read-only viewer to browse archived tasks with grouping, filtering, subtasks preview, and theme toggle.
-- [QuestArc](https://codeberg.org/Nexumia/QuestArc) - Turn your workflow into an adventure! Gamify your tasks with Atomic Habit quests, epic boss fights, earnable badges, and a customizable hero profile.
+- [QuestArc](https://github.com/nexumia-de/quest-arc) - Habits as journeys: walk a path of small habit steps.
 - [AutoPlan](https://codeberg.org/00sapo/sp-autoplan) - Smart non-AI plugin for the automatic scheduling of tasks using priorities assigned automatically based on tags, projects, and time estimation.
 - [Asana Integration](https://codeberg.org/sinenomine/sp-asana) - Provides 2-way sync between SP tasks and Asana tasks.
 - [Auto-Fill Time Spent](https://github.com/MazenMohamed203/auto-fill-time-spent) - Automatically sets Time Spent equal to Time Estimate when completing a task that has no tracked time. Perfect for off-computer activities.
