@@ -56,6 +56,8 @@ The plugin list is generated automatically from [this file](https://github.com/s
 - [Timesheet](https://github.com/AshrafByte/sp-timesheet) - Weekly timesheet and charts of your tracked time: days by project, a 12-week trend, daily targets, manual entries, CSV export, and hours kept after a task is deleted.
 - [Daily Quest](https://github.com/super-productivity/ridonculous/tree/main/plugins/daily-quest) - Experimental: an adventure map from a buff to your boss task to a recovery break, with the boss's subtasks as steps along the trail.
 - [Stadium Mode](https://github.com/super-productivity/ridonculous/tree/main/plugins/stadium-mode) - Experimental: a roaring crowd and a stadium announcer for every task you start, finish, postpone or delete. An optional neural voice downloads about 110 MB after you confirm.
+- [Cat Court](https://github.com/super-productivity/ridonculous/tree/main/plugins/procrastination-court) - Experimental: put an avoided task before two animated courtroom kittens, make your defense, then start it, add a tiny first step, or dismiss the case.
+- [Desk Pet](https://github.com/super-productivity/ridonculous/tree/main/plugins/desk-pet) - Experimental: Mochi, a rice cake on every page, fed by finished tasks and grumpy about overdue ones. Uses an unofficial hack that a future app update could break; requires Super Productivity 20.0.0.
 - [Deadlines](https://github.com/Jontata/deadlines-plugin) - List, Calendar, and Timeline views for deadlines and fixed dates in Super Productivity.
 - [Gamify](https://github.com/ptrckmgl/sp-gamify) - Earn XP and levels for tasks and habits, keep daily-goal and habit streaks, and lose XP for overdue tasks and missed habits.
 
